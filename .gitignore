@@ -1,1 +1,7 @@
+# created by virtualenv automatically
+.venv/bin
+=======
 .venv
+.idea
+.DS_store
+venv
