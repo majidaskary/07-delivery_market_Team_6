@@ -3,4 +3,6 @@
 .venv/bin
 =======
 .venv
+.idea
+.DS_store
 >>>>>>> d46db4832d13866a1a582e16ff34ded63b8fce1a
