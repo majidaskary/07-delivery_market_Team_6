@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 # created by virtualenv automatically
 .venv/bin
+=======
+.venv
+>>>>>>> d46db4832d13866a1a582e16ff34ded63b8fce1a
