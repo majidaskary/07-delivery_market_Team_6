@@ -1,0 +1,531 @@
+City,Latitude,Longitude,Restaurant_Count,Province
+Antwerpen,51.2199302,4.414990299999999,437,Vlaams Gewest
+Gent,51.0499922,3.7303853,309,Vlaams Gewest
+Bruxelles,50.84770289999999,4.357200100000001,264,Bruxelles
+Leuven,50.8791453,4.7024648,174,Vlaams Gewest
+Schaerbeek,50.8643377,4.3735116,110,Brussel
+Brugge,51.20845079999999,3.2250586,96,Vlaams Gewest
+Oostende,51.22471849999999,2.9092214,85,Vlaams Gewest
+Mechelen,51.0279827,4.4793443,84,Vlaams Gewest
+Anderlecht,50.8289886,4.3044056,84,Bruxelles
+Deurne,51.2203758,4.4595994,56,Vlaams Gewest
+Uccle,50.7956957,4.3736365,51,Bruxelles
+Ixelles,50.8278557,4.3714303,50,Bruxelles
+Laeken,50.8779248,4.3481374,48,Bruxelles
+Etterbeek,50.8305664,4.3899992,43,Bruxelles
+Hasselt,50.9304628,5.3324297,41,Vlaams Gewest
+Sint-Niklaas,51.1657403,4.1370695,39,Vlaams Gewest
+Aalst,50.9460841,4.0502929,38,Vlaams Gewest
+Molenbeek-Saint-Jean,50.8589178,4.3120744,36,Bruxelles
+Genk,50.9662121,5.502028699999999,32,Vlaams Gewest
+Jette,50.8854263,4.317266099999999,30,Bruxelles
+Forest,50.8202973,4.325840299999999,30,Bruxelles
+Berchem,51.1955771,4.4188392,30,Vlaams Gewest
+Saint-Gilles,50.8269838,4.344431699999999,29,Bruxelles
+Waterloo,50.7007212,4.402148299999999,23,Région Wallonne
+Lier,51.1334336,4.5675301,23,Vlaams Gewest
+Evere,50.87481709999999,4.4034479,23,Brussel
+Merksem,51.2508917,4.4489277,22,Vlaams Gewest
+Woluwe-Saint-Lambert,50.8415257,4.4337046,21,Bruxelles
+Vilvoorde,50.9262478,4.426356300000001,21,Vlaams Gewest
+Wilrijk,51.1683102,4.3942868,20,Vlaams Gewest
+Turnhout,51.3216148,4.9373026,20,Vlaams Gewest
+Mortsel,51.1726912,4.4456969,20,Vlaams Gewest
+Borgerhout,51.2090363,4.4488977,19,Vlaams Gewest
+Wavre,50.7154207,4.617655699999999,18,Région Wallonne
+Roeselare,50.9452778,3.1237049,18,Vlaams Gewest
+Knokke-Heist,51.3411792,3.2870914,18,Vlaams Gewest
+Brasschaat,51.3078944,4.5074231,18,Vlaams Gewest
+Vilvorde,50.9262478,4.426356300000001,17,Vlaams Gewest
+Heusden-Zolder,51.0262329,5.267462,17,Vlaams Gewest
+Blankenberge,51.31241079999999,3.132483,17,Vlaams Gewest
+Zaventem,50.8798599,4.4727755,16,Vlaams Gewest
+Saint-Josse-ten-Noode,50.8499102,4.3730202,16,Brussel
+Mouscron,50.748264,3.2256382,16,Région Wallonne
+Kortrijk,50.8270689,3.2603645,16,Vlaams Gewest
+Bruxelles-Capitale,50.8260453,4.3802052,15,Bruxelles
+Boom,51.089961,4.3649477,14,Vlaams Gewest
+Wijnegem,51.2271066,4.5194803,13,Vlaams Gewest
+Waregem,50.8837851,3.4244789,13,Vlaams Gewest
+Maasmechelen,50.9641222,5.6955081,13,Vlaams Gewest
+Koekelberg,50.8633698,4.3293856,13,Bruxelles
+Hoboken,51.1771171,4.3532966,13,Vlaams Gewest
+Oudenaarde,50.8459758,3.6022745,12,Vlaams Gewest
+Lommel,51.23068319999999,5.3095115,12,Vlaams Gewest
+Lokeren,51.1039354,3.989385199999999,12,Vlaams Gewest
+Ieper,50.8576861,2.8712378,12,Vlaams Gewest
+Geel,51.16258329999999,4.9908316,12,Vlaams Gewest
+Ganshoren,50.8720636,4.313806899999999,12,Bruxelles
+Dendermonde,51.0256441,4.102013599999999,12,Vlaams Gewest
+Auderghem,50.8165359,4.4263595,12,Bruxelles
+Asse,50.9106335,4.200210999999999,12,Vlaams Gewest
+Tubize,50.6944925,4.2040202,11,Région Wallonne
+Sint-Truiden,50.8186764,5.1816874,11,Vlaams Gewest
+Ninove,50.8336761,4.0186393,11,Vlaams Gewest
+Kessel-Lo,50.88514,4.73571,11,Vlaams Gewest
+Hamme,51.0981157,4.1373212,11,Vlaams Gewest
+Ekeren,51.2771047,4.4175641,11,Vlaams Gewest
+Brussel,50.84770289999999,4.357200100000001,11,Bruxelles
+Beveren,51.2132887,4.2581365,11,Vlaams Gewest
+Schoten,51.2538716,4.4911468,10,Vlaams Gewest
+Mol,51.1839796,5.1151634,10,Vlaams Gewest
+Lanaken,50.8920093,5.6569064,10,Vlaams Gewest
+Herentals,51.1771481,4.8363428,10,Vlaams Gewest
+Harelbeke,50.8566802,3.3105944,10,Vlaams Gewest
+Dilbeek,50.8437677,4.2613601,10,Vlaams Gewest
+Deinze,50.9791518,3.5309141,10,Vlaams Gewest
+Woluwe-Saint-Pierre,50.83302399999999,4.431729,9,Brussel
+Nijlen,51.1610575,4.6700925,9,Vlaams Gewest
+Molenbeek,50.8589178,4.3120744,9,Bruxelles
+Knokke,51.3467441,3.2894423,9,Vlaams Gewest
+Kapellen,51.315014,4.429339,9,Vlaams Gewest
+Heist-op-den-Berg,51.0725819,4.7238688,9,Vlaams Gewest
+Diest,50.9794615,5.055685599999999,9,Vlaams Gewest
+Bornem,51.0959792,4.232765,9,Vlaams Gewest
+Wetteren,50.9988367,3.8820184,8,Vlaams Gewest
+Tienen,50.8097182,4.9370128,8,Vlaams Gewest
+Tielt,50.9984732,3.3342635,8,Vlaams Gewest
+Sint-Amandsberg,51.0593304,3.7509905,8,Vlaams Gewest
+Overijse,50.770559,4.540793,8,Vlaams Gewest
+Liège,50.6402286,5.5689372,8,Région Wallonne
+Ledeberg,51.0371743,3.7412237,8,Vlaams Gewest
+Houthalen-Helchteren,51.0382829,5.3784999,8,Vlaams Gewest
+Geraardsbergen,50.7778285,3.872234299999999,8,Vlaams Gewest
+Eeklo,51.1852279,3.5641894,8,Vlaams Gewest
+Borsbeek,51.1947846,4.47917,8,Vlaams Gewest
+Beringen,51.0495481,5.228858,8,Vlaams Gewest
+Anvers,51.2199302,4.414990299999999,8,Vlaams Gewest
+Aarschot,50.9924094,4.8428813,8,Vlaams Gewest
+Zonhoven,50.99116009999999,5.3682925,7,Vlaams Gewest
+Zelzate,51.2024334,3.8096899,7,Vlaams Gewest
+Willebroek,51.0600306,4.3602508,7,Vlaams Gewest
+Visé,50.7378047,5.6956089,7,Région Wallonne
+Temse,51.1275442,4.2136696,7,Vlaams Gewest
+Schilde,51.2389346,4.5791463,7,Vlaams Gewest
+Saint-Josse-Ten-Noode,50.8499102,4.3730202,7,Brussel
+Kontich,51.1346929,4.4448466,7,Vlaams Gewest
+Grimbergen,50.9363515,4.3633877,7,Vlaams Gewest
+Gand,51.0499922,3.7303853,7,Vlaams Gewest
+Bilzen,50.8723874,5.5141443,7,Vlaams Gewest
+Zottegem,50.8694877,3.8104565,6,Vlaams Gewest
+Zele,51.0685806,4.0397802,6,Vlaams Gewest
+Wemmel,50.90900629999999,4.3068726,6,Vlaams Gewest
+Waremme,50.6980242,5.260365999999999,6,Région Wallonne
+Tongeren,50.78220719999999,5.4607492,6,Vlaams Gewest
+Putte,51.0548325,4.6287004,6,Vlaams Gewest
+Maastricht,50.503887,4.469936,6,Région Wallonne
+Leeuw-Saint-Pierre,50.7812959,4.2458165,6,Vlaams Gewest
+Kalmthout,51.37918,4.4749,6,Vlaams Gewest
+Izegem,50.9180566,3.2132491,6,Vlaams Gewest
+Herent,50.9065243,4.669804,6,Vlaams Gewest
+Erpe-Mere,50.9270256,3.9572981,6,Vlaams Gewest
+Braine-l'Alleud,50.6852876,4.3752475,6,Région Wallonne
+Berchem-Sainte-Agathe,50.8644399,4.297447,6,Bruxelles
+Alost,50.9460841,4.0502929,6,Vlaams Gewest
+Woluwé-Saint-Lambert,50.8415257,4.4337046,5,Bruxelles
+Wevelgem,50.808847,3.1837075,5,Vlaams Gewest
+Westerlo,51.0899291,4.9143336,5,Vlaams Gewest
+Wachtebeke,51.16915729999999,3.858440899999999,5,Vlaams Gewest
+Strombeek-Bever,50.9095358,4.3546661,5,Vlaams Gewest
+Sint-Katelijne-Waver,51.07036670000001,4.5313672,5,Vlaams Gewest
+Ronse,50.7498634,3.6039574,5,Vlaams Gewest
+Oostkamp,51.1545991,3.235562,5,Vlaams Gewest
+Neerpelt,51.22723999999999,5.43173,5,Vlaams Gewest
+Malines,51.0279827,4.4793443,5,Vlaams Gewest
+Leopoldsburg,51.1161316,5.258765299999999,5,Vlaams Gewest
+Kampenhout,50.9406267,4.557150099999999,5,Vlaams Gewest
+Heverlee,50.86260720000001,4.6958889,5,Vlaams Gewest
+Hannut,50.6721248,5.0778474,5,Région Wallonne
+Halle,50.7340969,4.2296554,5,Vlaams Gewest
+Duffel,51.0950469,4.5045725,5,Vlaams Gewest
+Diepenbeek,50.909164,5.4191575,5,Vlaams Gewest
+Denderleeuw,50.89571429999999,4.0600795,5,Vlaams Gewest
+Bree,51.1399117,5.5965832,5,Vlaams Gewest
+Zemst,50.9851089,4.4649059,4,Vlaams Gewest
+Wuustwezel,51.3892398,4.5907068,4,Vlaams Gewest
+Woluwé-Saint-Pierre,50.83302399999999,4.431729,4,Brussel
+Tessenderlo,51.0673638,5.0955631,4,Vlaams Gewest
+Stabroek,51.33228769999999,4.365715,4,Vlaams Gewest
+Sint-Gillis-Waas,51.2252681,4.1160228,4,Vlaams Gewest
+Peer,51.1311458,5.4585013,4,Vlaams Gewest
+Nieuwpoort,51.1284445,2.7480108,4,Vlaams Gewest
+Niel,51.1106688,4.332044799999999,4,Vlaams Gewest
+Merelbeke,50.9958506,3.7454951,4,Vlaams Gewest
+Merchtem,50.9574454,4.232112,4,Vlaams Gewest
+Louvain,50.8791453,4.7024648,4,Vlaams Gewest
+Londerzeel,51.0028752,4.2952604,4,Vlaams Gewest
+Lessines,50.7124107,3.8250451,4,Région Wallonne
+La Hulpe,50.73040229999999,4.482127699999999,4,Région Wallonne
+Kuurne,50.8540688,3.2872085,4,Vlaams Gewest
+Koksijde,51.1054198,2.6501728,4,Vlaams Gewest
+Hoogstraten,51.40471849999999,4.7627454,4,Vlaams Gewest
+Hemiksem,51.1452022,4.3382833,4,Vlaams Gewest
+Haacht,50.9770626,4.6341242,4,Vlaams Gewest
+Groot-Bijgaarden,50.8719066,4.2500012,4,Vlaams Gewest
+Genval,50.7211,4.49388,4,Région Wallonne
+Evergem,51.1107692,3.699309,4,Vlaams Gewest
+Essen,51.4633827,4.4618515,4,Vlaams Gewest
+Enghien,50.6917007,4.0338475,4,Région Wallonne
+Edegem,51.1560818,4.4312048,4,Vlaams Gewest
+Diegem,50.8940397,4.4362628,4,Vlaams Gewest
+Buggenhout,51.0136488,4.201817900000001,4,Vlaams Gewest
+Bredene,51.2465502,2.9578687,4,Vlaams Gewest
+Balen,51.170373,5.1677219,4,Vlaams Gewest
+Aartselaar,51.1379437,4.3781943,4,Vlaams Gewest
+Aalter,51.0873719,3.4483399,4,Vlaams Gewest
+Zulte,50.9220409,3.4439076,3,Vlaams Gewest
+Zoersel,51.2703297,4.7137306,3,Vlaams Gewest
+Zandhoven,51.2134425,4.656266899999999,3,Vlaams Gewest
+Wommelgem,51.20309899999999,4.5225617,3,Vlaams Gewest
+Wolvertem,50.95088,4.30927,3,Vlaams Gewest
+Watermael-Boitsfort,50.7966762,4.417794,3,Bruxelles
+Vosselaar,51.3131256,4.888201,3,Vlaams Gewest
+Tremelo,50.9911852,4.7036654,3,Vlaams Gewest
+Sint-Pieters-Leeuw,50.7812959,4.2458165,3,Vlaams Gewest
+Sint-Lievens-Houtem,50.9202407,3.859262,3,Vlaams Gewest
+Scherpenheuvel-Zichem,50.9800833,4.9753544,3,Vlaams Gewest
+Schaarbeek,50.8643377,4.3735116,3,Brussel
+Rumst,51.10112179999999,4.4126516,3,Vlaams Gewest
+Riemst,50.81177539999999,5.5951168,3,Vlaams Gewest
+Ranst,51.1878447,4.5639057,3,Vlaams Gewest
+Poperinge,50.8558252,2.7254617,3,Vlaams Gewest
+Pelt,51.2284094,5.4342882,3,Vlaams Gewest
+Overpelt,51.1970553,5.3970123,3,Vlaams Gewest
+Oud-Turnhout,51.3178814,4.9822136,3,Vlaams Gewest
+Opwijk,50.9696888,4.1800803,3,Vlaams Gewest
+Oostduinkerke,51.1172798,2.6901458,3,Vlaams Gewest
+Middelkerke,51.1851395,2.8207939,3,Vlaams Gewest
+Menin,50.79683439999999,3.126679,3,Vlaams Gewest
+Menen,50.79683439999999,3.126679,3,Vlaams Gewest
+Malle,51.2968076,4.6941671,3,Vlaams Gewest
+Maldegem,51.2090311,3.4486286,3,Vlaams Gewest
+Machelen,50.912833,4.4332364,3,Vlaams Gewest
+Maaseik,51.09616760000001,5.7864575,3,Vlaams Gewest
+Liedekerke,50.8692825,4.0876947,3,Vlaams Gewest
+Lembeek,50.7140616,4.220043599999999,3,Vlaams Gewest
+Lede,50.9651705,3.9773105,3,Vlaams Gewest
+Lebbeke,51.0001109,4.128039,3,Vlaams Gewest
+Lasne,50.6865073,4.4840992,3,Région Wallonne
+Kruibeke,51.1705936,4.3124018,3,Vlaams Gewest
+Kraainem,50.8617254,4.4572714,3,Région Flamande
+Kortenberg,50.8883743,4.5440122,3,Vlaams Gewest
+Keerbergen,51.0030132,4.6321239,3,Vlaams Gewest
+Houthalen,51.03146270000001,5.376354099999999,3,Vlaams Gewest
+Hamont-Achel,51.2510217,5.5424821,3,Vlaams Gewest
+Halluin,50.503887,4.469936,3,Région Wallonne
+Hal,50.7340969,4.2296554,3,Vlaams Gewest
+Grobbendonk,51.1909946,4.7385192,3,Vlaams Gewest
+Grez-Doiceau,50.73845499999999,4.6981438,3,Région Wallonne
+Gentbrugge,51.0432117,3.7592682,3,Vlaams Gewest
+Elsene,50.8278557,4.3714303,3,Bruxelles
+Drogenbos,50.7946129,4.3138957,3,Vlaams Gewest
+Dilsen-Stokkem,51.0360931,5.7294209,3,Vlaams Gewest
+Brussel-Hoofdstad,50.8475937,4.3573821,3,Bruxelles
+Bruges,51.20845079999999,3.2250586,3,Vlaams Gewest
+Braine-le-Château,50.6831281,4.2936995,3,Région Wallonne
+Boortmeerbeek,50.9760315,4.561166399999999,3,Vlaams Gewest
+Beverlo,51.0873,5.21898,3,Vlaams Gewest
+Berlaar,51.11828449999999,4.6594893,3,Vlaams Gewest
+Alsemberg,50.74163,4.33613,3,Vlaams Gewest
+,50.503887,4.469936,3,Région Wallonne
+Zwijndrecht,51.2190746,4.3264876,2,Vlaams Gewest
+Zwevegem,50.8130329,3.3328026,2,Vlaams Gewest
+Woluwe Saint-Lambert,50.8415257,4.4337046,2,Bruxelles
+Wilsele,50.8967552,4.7053468,2,Vlaams Gewest
+Wezembeek-Oppem,50.840067,4.4937248,2,Vlaams Gewest
+Wervik,50.77827139999999,3.0440352,2,Vlaams Gewest
+Waarloos,51.105061,4.454695900000001,2,Vlaams Gewest
+Ukkel,50.7956957,4.3736365,2,Bruxelles
+Torhout,51.0624326,3.1026301,2,Vlaams Gewest
+Tervuren,50.8257627,4.5078285,2,Vlaams Gewest
+Stekene,51.2025711,4.0381912,2,Vlaams Gewest
+Spiere-Helkijn,50.7179671,3.3569882,2,Vlaams Gewest
+Sleidinge,51.1319702,3.6789117,2,Vlaams Gewest
+Sittard,50.503887,4.469936,2,Région Wallonne
+Sint-Lambrechts-Woluwe,50.8415257,4.4337046,2,Bruxelles
+Sint-Andries,51.1972024,3.1794755,2,Vlaams Gewest
+Schepdaal,50.8383485,4.1958272,2,Vlaams Gewest
+Saint Josse Ten Noode,50.8499102,4.3730202,2,Brussel
+Ruisbroek,51.08799,4.33107,2,Vlaams Gewest
+Rixensart,50.71225039999999,4.527667999999999,2,Région Wallonne
+Rijmenam,51.00204590000001,4.5856815,2,Vlaams Gewest
+Rijkevorsel,51.3500167,4.7594946,2,Vlaams Gewest
+Oupeye,50.7093163,5.6442252,2,Région Wallonne
+Ostende,51.22471849999999,2.9092214,2,Vlaams Gewest
+Oostrozebeke,50.9210134,3.3392762,2,Vlaams Gewest
+Oostakker,51.09971299999999,3.7642304,2,Vlaams Gewest
+Neder-over-Heembeek,50.8953309,4.3880767,2,Bruxelles
+Nazareth,50.9596361,3.5956111,2,Vlaams Gewest
+Moorslede,50.8911974,3.0633592,2,Vlaams Gewest
+Merksplas,51.3580982,4.8635076,2,Vlaams Gewest
+Melle,51.0007376,3.8057456,2,Vlaams Gewest
+Meerhout,51.132046,5.0770635,2,Vlaams Gewest
+Lochristi,51.0991754,3.8445454,2,Vlaams Gewest
+Lille,51.2418237,4.8232371,2,Vlaams Gewest
+Lennik,50.8053171,4.1545677,2,Vlaams Gewest
+Lendelede,50.8862647,3.2383572,2,Vlaams Gewest
+Landen,50.74833719999999,5.0810705,2,Vlaams Gewest
+Kuringen,50.94387,5.29789,2,Vlaams Gewest
+Kinrooi,51.1454897,5.7418881,2,Vlaams Gewest
+Kessel,51.13915,4.62968,2,Vlaams Gewest
+Kermt,50.94767,5.246760000000001,2,Vlaams Gewest
+Kalken,51.0383253,3.9183591,2,Vlaams Gewest
+Jodoigne,50.7233856,4.8712491,2,Région Wallonne
+Ichtegem,51.1212064,3.0337158,2,Vlaams Gewest
+Hulshout,51.0756472,4.7889894,2,Vlaams Gewest
+Hoeselt,50.8497764,5.4910687,2,Vlaams Gewest
+Herselt,51.0535867,4.8829497,2,Vlaams Gewest
+Hamont,51.25272,5.54953,2,Vlaams Gewest
+Grand-Bigard,50.8719066,4.2500012,2,Vlaams Gewest
+Ghent,51.0499922,3.7303853,2,Vlaams Gewest
+Geetbets,50.8888913,5.1657039,2,Vlaams Gewest
+Frasnes-lez-Anvaing,50.6667703,3.6194938,2,Région Wallonne
+Ertvelde,51.1787632,3.7466865,2,Vlaams Gewest
+Drongen,51.054011,3.6615363,2,Vlaams Gewest
+Diksmuide,51.0317365,2.8638919,2,Vlaams Gewest
+Destelbergen,51.0558591,3.7949533,2,Vlaams Gewest
+Dessel,51.2392168,5.1129213,2,Vlaams Gewest
+De Klinge,51.25620600000001,4.090040699999999,2,Vlaams Gewest
+De Haan,51.2725443,3.0335793,2,Vlaams Gewest
+Buizingen,50.741419,4.2500475,2,Vlaams Gewest
+Brecht,51.3496652,4.6379832,2,Vlaams Gewest
+Braine l'Alleud,50.6852876,4.3752475,2,Région Wallonne
+Boutersem,50.8410754,4.8347722,2,Vlaams Gewest
+Borgloon,50.8033729,5.3334245,2,Vlaams Gewest
+Booischot,51.05151,4.77523,2,Vlaams Gewest
+Boechout,51.1662505,4.496432899999999,2,Vlaams Gewest
+Beveren-Waas,51.2132887,4.2581365,2,Vlaams Gewest
+Betekom,50.98566,4.7817,2,Vlaams Gewest
+Berlare,51.0252056,4.003722,2,Vlaams Gewest
+Belsele,51.1428369,4.0861828,2,Vlaams Gewest
+Begijnendijk,51.0187914,4.7826539,2,Vlaams Gewest
+Aubel,50.7043899,5.858471799999999,2,Région Wallonne
+Arendonk,51.32277490000001,5.0775438,2,Vlaams Gewest
+Antwerp,51.2199302,4.414990299999999,2,Vlaams Gewest
+Ans,50.6638539,5.5115031,2,Région Wallonne
+Alken,50.8748926,5.305571599999999,2,Vlaams Gewest
+Zwijnaarde,50.99980619999999,3.7106183,1,Vlaams Gewest
+Zutendaal,50.93198599999999,5.572415899999999,1,Vlaams Gewest
+Zoutleeuw,50.8323245,5.1045143,1,Vlaams Gewest
+Zomergem,51.1192868,3.5644511,1,Vlaams Gewest
+Zoerle-Porwijs,51.08879,4.868939999999999,1,Vlaams Gewest
+Zellik,50.88449,4.27401,1,Vlaams Gewest
+Zeebrugge,51.3315136,3.2062847,1,Vlaams Gewest
+Zammel (Geel),51.1015,4.94856,1,Vlaams Gewest
+Wondelgem,51.09050089999999,3.7160657,1,Vlaams Gewest
+Woluwe-Sint-Lambrecht,50.8456203,4.4175388,1,Bruxelles
+Woluwe-Saint-Etienne,50.8691316,4.450322799999999,1,Vlaams Gewest
+Woluwe saint lambert,50.8456203,4.4175388,1,Bruxelles
+Wingene,51.0579554,3.277482,1,Vlaams Gewest
+Wezembeek,50.840067,4.4937248,1,Vlaams Gewest
+Westmeerbeek,51.06032,4.8351,1,Vlaams Gewest
+Westmalle,51.2968136,4.694263299999999,1,Vlaams Gewest
+Westende,51.1687058,2.7759824,1,Vlaams Gewest
+Wervick-Sud,50.77032,3.0480489,1,Hauts-de-France
+Wenduine,51.2976457,3.0830791,1,Vlaams Gewest
+Wellen,50.8415407,5.3303698,1,Vlaams Gewest
+Weelde,51.406763,4.9908357,1,Vlaams Gewest
+Wauthier-Braine,50.68121,4.29806,1,Région Wallonne
+Wauthier Braine,50.68121,4.29806,1,Région Wallonne
+Waasmunster,51.1110222,4.0876445,1,Vlaams Gewest
+Waarschoot,51.1514819,3.6060488,1,Vlaams Gewest
+Vrasene,51.2193961,4.1944794,1,Vlaams Gewest
+Vorst,50.8202973,4.325840299999999,1,Bruxelles
+Vissenaken,50.83768,4.90484,1,Vlaams Gewest
+Vise,50.7378047,5.6956089,1,Région Wallonne
+Virginal,39.3237019,-80.1161923,1,West Virginia
+Veurne,51.0726963,2.6625315,1,Vlaams Gewest
+Valkenswaard,51.3554957,5.4533268,1,Noord-Brabant
+Tubeke,50.6944925,4.2040202,1,Région Wallonne
+Tournai,50.6127324,3.379139,1,Région Wallonne
+Tielen,51.2434976,4.8976789,1,Vlaams Gewest
+Testelt,51.016921,4.9549334,1,Vlaams Gewest
+Ternat,50.8699819,4.160936100000001,1,Vlaams Gewest
+Termonde,51.0256441,4.102013599999999,1,Vlaams Gewest
+Strombeek,50.9095358,4.3546661,1,Vlaams Gewest
+Steenokkerzeel,50.91912,4.501839299999999,1,Vlaams Gewest
+Steenhuffel,50.99577,4.26716,1,Vlaams Gewest
+Staden,50.9746466,3.0146178,1,Vlaams Gewest
+St-Niklaas,51.1657403,4.1370695,1,Vlaams Gewest
+Sluis,51.21108,5.135520000000001,1,Vlaams Gewest
+Sint-Stevens-Woluwe,50.8691316,4.450322799999999,1,Vlaams Gewest
+Sint-Pieters-Woluwe,50.83302399999999,4.431729,1,Brussel
+Sint-Pauwels,51.193303,4.0977458,1,Vlaams Gewest
+Sint-Michiels,51.1858939,3.2082098,1,Vlaams Gewest
+Sint-Kwintens-Lennik,50.80422,4.154809999999999,1,Vlaams Gewest
+Sint-Kruis,51.21429699999999,3.2512976,1,Vlaams Gewest
+Sint-Josse-ten-Noode,50.8499102,4.3730202,1,Brussel
+Sint-Josse-Ten-Noode,50.8499102,4.3730202,1,Brussel
+Sint-Joost-ten-Node,50.8499102,4.3730202,1,Brussel
+Sint-Job-In-'t-Goor (Brecht),51.29729950000001,4.5738455,1,Vlaams Gewest
+Sint-Jans-Moleenbeek,50.8589178,4.3120744,1,Bruxelles
+Sint-Gilles,50.8268879,4.3446733,1,Bruxelles
+Sint-Eloois-Winkel,50.8762769,3.1823566,1,Vlaams Gewest
+Sint-Amands,51.054855,4.2050401,1,Vlaams Gewest
+Sint- Andries,51.1972024,3.1794755,1,Vlaams Gewest
+Sint pieters woluwe,50.83302399999999,4.431729,1,Brussel
+Sint Niklaas,51.1657403,4.1370695,1,Vlaams Gewest
+Sint Michiels,51.1858939,3.2082098,1,Vlaams Gewest
+Sint Josse Ten Noode,50.8499102,4.3730202,1,Brussel
+Sinaai,51.1563307,4.0444238,1,Vlaams Gewest
+Scherpenheuvel,50.9801333,4.9753378,1,Vlaams Gewest
+Schaffen-Diest,51.01086400000001,5.099756999999999,1,Flanders
+Saintes,50.70615,4.15817,1,Région Wallonne
+Saint-josse-ten-noode,50.8499102,4.3730202,1,Brussel
+Saint-Trond,50.8186764,5.1816874,1,Vlaams Gewest
+Saint-Nicolas,50.6402849,5.523139899999999,1,Région Wallonne
+Rupelmonde,51.1274074,4.2903448,1,Vlaams Gewest
+Ruislede,51.0413499,3.3970884,1,Vlaams Gewest
+Rotselaar,50.9502027,4.7115345,1,Vlaams Gewest
+Roosendaal,51.535849,4.465321299999999,1,Noord-Brabant
+Roosdaal,50.8428641,4.0759748,1,Vlaams Gewest
+Rocourt,50.67592140000001,5.545947399999999,1,Région Wallonne
+Roccourt,50.67592140000001,5.545947399999999,1,Région Wallonne
+Rillaar,50.97438,4.89422,1,Vlaams Gewest
+Rhode-Saint-Genèse,50.7432603,4.3465049,1,Vlaams Gewest
+Rhode Saint Genèse,50.7432603,4.3465049,1,Vlaams Gewest
+Renaix,50.7498634,3.6039574,1,Vlaams Gewest
+Rekkem,50.782807,3.1641132,1,Vlaams Gewest
+Reet,51.10113339999999,4.4125882,1,Vlaams Gewest
+Ravels,51.371407,4.9936552,1,Vlaams Gewest
+Ramsel,51.03211,4.8328,1,Vlaams Gewest
+Putte-Kapellen,51.35326999999999,4.39672,1,Vlaams Gewest
+Oudsbergen,51.0980576,5.518132899999999,1,Vlaams Gewest
+Oudergem,50.8165359,4.4263595,1,Bruxelles
+Oud-Heverlee,50.8260579,4.7023053,1,Vlaams Gewest
+Ossendrecht,50.503887,4.469936,1,Région Wallonne
+Oreye,50.7308698,5.344570699999999,1,Région Wallonne
+Ophasselt,50.82118209999999,3.8913282,1,Vlaams Gewest
+Opglabbeek,51.04316,5.58412,1,Vlaams Gewest
+Oosterzele,50.9384372,3.7856038,1,Vlaams Gewest
+Oordegem,50.9565245,3.9028634,1,Vlaams Gewest
+Olsene,50.9362129,3.4657328,1,Vlaams Gewest
+Olen,51.1687461,4.9039816,1,Vlaams Gewest
+Okselaar,51.03434,5.01203,1,Vlaams Gewest
+Oevel,51.1387198,4.9042615,1,Vlaams Gewest
+Oelegem,51.2129972,4.599714899999999,1,Vlaams Gewest
+Noorderwijk (Herentals),51.1393923,4.8388348,1,Vlaams Gewest
+Nieuwkerken-Waas,51.1935108,4.177540100000001,1,Vlaams Gewest
+Nieuwerkerken,50.8647465,5.1885873,1,Vlaams Gewest
+Nieppe,50.503887,4.469936,1,Région Wallonne
+Neupré,50.54325679999999,5.4877416,1,Région Wallonne
+Neerlinter,50.8398055,5.022196999999999,1,Vlaams Gewest
+Neder-Over-Heembeek,50.8953309,4.3880767,1,Bruxelles
+Munster Bilzen,50.88973259999999,5.5261669,1,Vlaams Gewest
+Moorsele,50.8405959,3.1646335,1,Vlaams Gewest
+Meulebeke,50.94865129999999,3.2901275,1,Vlaams Gewest
+Meise,50.9358975,4.3293883,1,Vlaams Gewest
+Maastricht West,50.503887,4.469936,1,Région Wallonne
+Lummen,50.9936301,5.197123599999999,1,Vlaams Gewest
+Lubbeek,50.8816717,4.84146,1,Vlaams Gewest
+Louvain-la-Neuve,50.66808100000001,4.6118324,1,Région Wallonne
+Loppem,51.1559088,3.1959225,1,Vlaams Gewest
+Lombardsijde-Bad,51.15626,2.74546,1,Vlaams Gewest
+Lint,51.1272842,4.4969214,1,Vlaams Gewest
+Linkeroever,51.2205082,4.3782374,1,Vlaams Gewest
+Linkebeek,50.7700457,4.3346411,1,Vlaams Gewest
+Linden (Lubbeek),50.89393,4.77215,1,Vlaams Gewest
+Lierde,50.8151322,3.824951099999999,1,Vlaams Gewest
+Laken,50.8779248,4.3481374,1,Bruxelles
+Laakdal,51.06995209999999,4.9872526,1,Vlaams Gewest
+Kumtich (Tienen),50.82246,4.88742,1,Vlaams Gewest
+Kruishoutem,50.90449899999999,3.5281414,1,Vlaams Gewest
+Kortrijk-Dutsel,50.9266825,4.8055097,1,Vlaams Gewest
+Kortenaken,50.9089882,5.0600613,1,Vlaams Gewest
+Kortemark,51.0309454,3.0438624,1,Vlaams Gewest
+Koersel,51.05844,5.27176,1,Vlaams Gewest
+Knocke-Heist,51.3411792,3.2870914,1,Vlaams Gewest
+Kiel,51.19024539999999,4.3786055,1,Vlaams Gewest
+Kester,50.76428,4.11935,1,Vlaams Gewest
+Kessel-lo,50.88514,4.73571,1,Vlaams Gewest
+Kessel-Lo (Leuven),50.88514,4.73571,1,Vlaams Gewest
+Kasterlee,51.2408811,4.9664674,1,Vlaams Gewest
+Kapelle-op-den-Bos,51.0111319,4.3608915,1,Vlaams Gewest
+Kanne,50.814055,5.6693136,1,Vlaams Gewest
+Jeuk,50.73427,5.20969,1,Vlaams Gewest
+Ittervoort,50.503887,4.469936,1,Région Wallonne
+Itegem,51.10321,4.72927,1,Vlaams Gewest
+Hove,51.15417960000001,4.4724334,1,Vlaams Gewest
+Houthalen-Oost,51.020885,5.469392,1,Vlaams Gewest
+Hoogstraten-Meerle,51.4733516,4.803769,1,Vlaams Gewest
+Hombeek,51.014356,4.442769699999999,1,Vlaams Gewest
+Holsbeek,50.9257403,4.8078558,1,Vlaams Gewest
+Hoepertingen,50.81235,5.283679999999999,1,Vlaams Gewest
+Hoegaarden,50.7741724,4.8872957,1,Vlaams Gewest
+Hever,50.995,4.55135,1,Vlaams Gewest
+Herzele,50.88449079999999,3.892864299999999,1,Vlaams Gewest
+Herstal,50.66463470000001,5.630307699999999,1,Région Wallonne
+Hermalle,50.7112191,5.6800351,1,Région Wallonne
+Herenthout,51.1390868,4.756664499999999,1,Vlaams Gewest
+Herenthals,51.1771481,4.8363428,1,Vlaams Gewest
+Helecine,50.75931139999999,4.9893181,1,Région Wallonne
+Hekelgem,50.9072267,4.108495599999999,1,Vlaams Gewest
+Heist-Op-Den-Berg,51.0725819,4.7238688,1,Vlaams Gewest
+Heers,50.7537645,5.3022022,1,Vlaams Gewest
+Hechtel-Eksel,51.1249341,5.367727599999999,1,Vlaams Gewest
+Hechtel,51.1252349,5.3661124,1,Vlaams Gewest
+Hasselt-Spalbeek,50.9486672,5.2247223,1,Vlaams Gewest
+Ham,51.104129,5.1768601,1,Vlaams Gewest
+Halle-Booienhoven,50.80475,5.11168,1,Vlaams Gewest
+Halen,50.9495952,5.115205599999999,1,Vlaams Gewest
+Haasdonk,51.1810333,4.2378789,1,Vlaams Gewest
+Haaltert,50.9017901,4.0069576,1,Vlaams Gewest
+Grembergen,51.0550925,4.1056631,1,Vlaams Gewest
+Gistel,51.1495138,2.9539629,1,Vlaams Gewest
+Gijzegem,50.9837657,4.051057999999999,1,Vlaams Gewest
+Gierle,51.2671512,4.8677063,1,Vlaams Gewest
+Galmaarden,50.7497978,3.9716375,1,Vlaams Gewest
+Frasnes,50.6667703,3.6194938,1,Région Wallonne
+Fexhe-le-Haut-Clocher,50.6652806,5.3994912,1,Région Wallonne
+Estaimpuis,50.6874581,3.2706078,1,Région Wallonne
+Erembodegem,50.9206095,4.060892,1,Vlaams Gewest
+Eppegem,50.9621231,4.4544329,1,Vlaams Gewest
+Eksel,51.1546138,5.394354499999999,1,Vlaams Gewest
+Eke,50.9568208,3.6416381,1,Vlaams Gewest
+Eisden,50.9854566,5.714076899999999,1,Vlaams Gewest
+Eindhout,51.0988595,5.0008238,1,Vlaams Gewest
+Eigenbrakel,50.6852876,4.3752475,1,Région Wallonne
+Eernegem,51.1295248,3.0274313,1,Vlaams Gewest
+Echt,50.503887,4.469936,1,Région Wallonne
+Dworp,50.72949,4.301089999999999,1,Vlaams Gewest
+Dranouter,50.76591939999999,2.7829724,1,Vlaams Gewest
+Dormaal,50.80722,5.0985,1,Vlaams Gewest
+Denderhoutem,50.8709652,4.0184815,1,Vlaams Gewest
+De Panne,51.0954838,2.5887526,1,Vlaams Gewest
+Dalhem,50.7133704,5.7228273,1,Région Wallonne
+Courtrai,50.8270689,3.2603645,1,Vlaams Gewest
+Comines-Warneton,50.726584,2.8806397,1,Région Wallonne
+Comines,50.76874590000001,2.9997061,1,Région Wallonne
+Chaumont-Gistoux,50.6835524,4.694995899999999,1,Région Wallonne
+Burcht,51.20367,4.34148,1,Vlaams Gewest
+Bunsbeek,50.84216499999999,4.9426464,1,Vlaams Gewest
+Buggenhout (Opdorp),51.02806,4.21918,1,Vlaams Gewest
+Brugge Sint-Kruis,51.21429699999999,3.2512976,1,Vlaams Gewest
+Brugge Sint-Andries,51.1972024,3.1794755,1,Vlaams Gewest
+Broechem,51.1813334,4.6020124,1,Vlaams Gewest
+Braine-l’Alleud,50.6852876,4.3752475,1,Région Wallonne
+Braine-le-Comte,50.6105335,4.135505,1,Région Wallonne
+Braine-Le-Comte,50.6105335,4.135505,1,Région Wallonne
+Bouwel,51.1719684,4.7420582,1,Vlaams Gewest
+Bocholt,51.1729873,5.5787505,1,Vlaams Gewest
+Beringen-mijn,51.07839999999999,5.22598,1,Vlaams Gewest
+Berendrecht,51.34287,4.31409,1,Vlaams Gewest
+Berchem-Saint-Agathes,50.8644399,4.297447,1,Bruxelles
+Berchem sainte Agathe,50.8644399,4.297447,1,Bruxelles
+Beersel,50.7670322,4.3081003,1,Vlaams Gewest
+Baarle-Nassau,50.503887,4.469936,1,Région Wallonne
+Baarle-Hertog,51.4418257,4.9317107,1,Vlaams Gewest
+Baardegem,50.9549555,4.141577,1,Vlaams Gewest
+Awans,50.6836035,5.4618914,1,Région Wallonne
+Averbode,51.0305467,4.977454,1,Vlaams Gewest
+Ath,50.6342274,3.772344,1,Région Wallonne
+Assebroek,51.20202339999999,3.2550607,1,Vlaams Gewest
+As,50.9993401,5.5771742,1,Vlaams Gewest
+Ardooie,50.978289,3.1985825,1,Vlaams Gewest
+Anzegem,50.8326375,3.4784864,1,Vlaams Gewest
+Anwterpen,51.2199302,4.414990299999999,1,Vlaams Gewest
+Antwerpen-Zuid,51.2084467,4.391418,1,Vlaams Gewest
+Affligem,50.9125155,4.111778,1,Vlaams Gewest
+Aarstelaar,51.1379437,4.3781943,1,Vlaams Gewest
+Aarsele,50.99693430000001,3.4224989,1,Vlaams Gewest
+1040,50.8335737,4.3943477,1,Bruxelles
